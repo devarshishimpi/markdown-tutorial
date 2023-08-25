@@ -73,35 +73,31 @@ Lists are effective for presenting information in a structured manner. Markdown 
 
 For unordered lists, use hyphens (-), plus signs (+), or asterisks (*) followed by a space:
 
-
-
 ```
-- Milk
-- Tea
-- Beer
+* Item 1
+* Item 2
+* Item 3
 ```
 
-**Output:**
+Output:
 
-- Milk
-- Tea
-- Beer
+* Item 1
+* Item 2
+* Item 3
 
 Ordered lists use numbers followed by periods and spaces:
 
-
-
 ```
-1. Eat
-1. Walk
-1. Sleep
+1. Step 1
+2. Step 2
+3. Step 3
 ```
 
-**Output:**
+Output:
 
-1. Eat
-1. Walk
-1. Sleep
+1. Step 1
+2. Step 2
+3. Step 3
 
 ## CheckBox Task List
 
@@ -176,3 +172,5 @@ Markdown offers various text formatting options. For bold text, enclose it with 
 **Output:**
 
 ~~This is strikethrough text.~~
+
+## Will be adding rest of the sections very soon! Contributions are welcome!
