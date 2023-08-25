@@ -167,7 +167,7 @@ Markdown offers various text formatting options. For bold text, enclose it with 
 
 ***This is combined of both***
 
-### strikethrough Text
+### Strikethrough Text
 
 ```
 ~~This is strikethrough text.~~
