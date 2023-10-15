@@ -8,7 +8,7 @@
 
 - [ ] I have performed a self-review of my code.
 
-- [ ] Followed the repository's [Contributing Guidelines](https://github.com/devarshishimpi/staticstorm/blob/main/CONTRIBUTING.md).
+- [ ] Followed the repository's [Contributing Guidelines](https://github.com/devarshishimpi/markdown-tutorial/blob/main/CONTRIBUTING.md).
 
 - [ ] I ran the app and tested it locally to verify that it works as expected.
 
